@@ -1,6 +1,7 @@
 Updated line content.
 Banana
 This is a new line.
-This is a new line.
-This is a new line.
+This is a new line44.
+This is a new line55.
+This is a new line6.
 This is a new line.
